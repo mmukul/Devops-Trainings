@@ -46,12 +46,6 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Hands-on and Practical: Git workflows on GitHub UI, Branching, merging
 - Practice Assignment
 
-### Understanding of Git Internals
-- Hash-objects
-- ls-files
-- rev-parse
-- ls-remote
-
 ### Continuous Integration (CI) Pipeline with Jenkins
 - What is CI (Continuous Integration)?
 - Why is CI Required?

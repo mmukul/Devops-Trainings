@@ -30,6 +30,12 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ## Course curriculum
 
+### Understanding of Git Internals
+- Hash-objects
+- ls-files
+- rev-parse
+- ls-remote
+
 ### Docker
 - Docker Images
  - Introduction to Docker Images
