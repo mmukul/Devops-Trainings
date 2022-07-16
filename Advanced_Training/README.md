@@ -36,6 +36,8 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - rev-parse
 - ls-remote
 
+### Jenkins Declarative Pipeline using Groovy script
+
 ### Docker
 - Docker Images
  - Introduction to Docker Images
