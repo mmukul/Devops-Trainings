@@ -36,13 +36,14 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - rev-parse
 - ls-remote
 
-### Declarative Pipeline (JenkinsFile) using Groovy script
+### Declarative Pipeline (Jenkinsfile) using Groovy script
 - Pipeline Syntax
  - node
  - label
  - parameters
 
-### Docker
+### Containerization using Docker
+- Docker Architecture
 - Docker Images
  - Introduction to Docker Images
  - Explore and pull images from docker hub
@@ -55,7 +56,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
  - Introduction to Docker volumes
  - Launch a container with volume attached
 
-### Kubernetes
+### Orchestration using Kubernetes
 - Kubernetes Architecture
 - Kubernetes Concepts
   - PODs
@@ -67,6 +68,6 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
   - Kubernetes Setup – Kubeadm
   - Hands-on and Practical
 
-### Monitoring
+### Observability and Monitoring
 - Prometheus
 - Grafana
