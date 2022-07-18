@@ -36,7 +36,11 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - rev-parse
 - ls-remote
 
-### Jenkins Declarative Pipeline using Groovy script
+### Declarative Pipeline (JenkinsFile) using Groovy script
+- Pipeline Syntax
+ - node
+ - label
+ - parameters
 
 ### Docker
 - Docker Images
