@@ -26,7 +26,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 
 ### Fees
 - Contact @smilemukul2005@gmail.com for more details
-- Course Interested i.e Foundation, Advanced and Fast-Track
+- Course Interested i.e Foundation, Advanced, Fast-Track and Specialized Courses (Terraform)
 
 ## Course curriculum
 - Fundamentals of Linux and commands
@@ -56,7 +56,7 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 - Hands-on and Practical
 - Practice Assignment
 
-### Docker
+### Containerization using Docker
 - Introduction to Docker and Container
 - Understanding of images and containers
 - Introduction to Docker Networking
