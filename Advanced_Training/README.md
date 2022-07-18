@@ -31,10 +31,10 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
 ## Course curriculum
 
 ### Understanding of Git Internals
-- Hash-objects
-- ls-files
-- rev-parse
-- ls-remote
+ - Hash-objects
+ - ls-files
+ - rev-parse
+ - ls-remote
 
 ### Declarative Pipeline (Jenkinsfile) using Groovy script
 - Pipeline Syntax
@@ -43,7 +43,6 @@ This DevOps Program will provide you with in-depth knowledge of various DevOps t
  - parameters
 
 ### Containerization using Docker
-- Docker Architecture
 - Docker Images
  - Introduction to Docker Images
  - Explore and pull images from docker hub
